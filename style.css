@@ -105,3 +105,13 @@ h2 {
 .call-img img {
   width: 40px;
 }
+
+.top-section a {
+  text-decoration: none !important ;
+}
+.top-section h2 {
+  text-shadow: 5px 5px black;
+  font-size: 30px;
+  margin-bottom: 0;
+  text-decoration: none !important ;
+}
